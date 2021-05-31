@@ -39,22 +39,26 @@ By using the system, it will be supported in 3 cases:
 
 ## Screenshots
 This is an example image. You can see more details of this project at the file. POS-Django.pdf
-- Login page 
-![Login](https://user-images.githubusercontent.com/78865194/120125698-007f9e80-c1e4-11eb-9ccc-5bf81c6dd511.PNG)
-- Product page
-![product](https://user-images.githubusercontent.com/78865194/120125754-39b80e80-c1e4-11eb-8c4d-ab0f5a0e8edb.PNG)
-- Promotion page
-![promotion](https://user-images.githubusercontent.com/78865194/120125785-49cfee00-c1e4-11eb-8068-55cf5e4e40e9.PNG)
-- Membership page
-![membership](https://user-images.githubusercontent.com/78865194/120125784-49cfee00-c1e4-11eb-934c-c877f8f63594.PNG)
-- Sale report page
-![sale report](https://user-images.githubusercontent.com/78865194/120125775-46d4fd80-c1e4-11eb-907c-93a14688330d.PNG)
-- Sale history page
-![sales his](https://user-images.githubusercontent.com/78865194/120125779-489ec100-c1e4-11eb-9ac2-06a1a629a0f6.PNG)
-- Daily report page
-![Daily](https://user-images.githubusercontent.com/78865194/120125780-489ec100-c1e4-11eb-8d4b-6ca89892c237.PNG)
-- Document page
-![document](https://user-images.githubusercontent.com/78865194/120125782-49375780-c1e4-11eb-971e-c99127083d11.PNG)
+
+- server UI 
+
+![3](https://user-images.githubusercontent.com/78865194/120213892-f7331800-c25d-11eb-93fb-6736c6cc8cb5.png)
+
+- client UI 
+
+![4](https://user-images.githubusercontent.com/78865194/120213898-f8644500-c25d-11eb-871d-3dfcfd0ae12b.png)
+
+- Manage Room UI
+
+![5](https://user-images.githubusercontent.com/78865194/120213900-f8fcdb80-c25d-11eb-9195-ee44889fc43f.png)
+
+- Gmae play UI
+
+![1](https://user-images.githubusercontent.com/78865194/120213905-f9957200-c25d-11eb-944f-3695b6968f7e.png)
+
+- Hall of fame UI 
+
+![2](https://user-images.githubusercontent.com/78865194/120213906-f9957200-c25d-11eb-89d6-156634f03b31.png)
 
 
 
