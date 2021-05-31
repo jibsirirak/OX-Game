@@ -1,6 +1,6 @@
 # OX-Game
- >MyPOS is Point Of Sale Website.\
- This is my project group for Software Engineering (03603341).\
+ >OX Game is Tic-Tac-Toe Game Use python.\
+ This is my project group for Network Programming (03603423).\
  My name is Sirirak Atchariyavej (6130300921).\
  Kasetsart University.
 
@@ -13,52 +13,48 @@
 
 
 ## General Information
+OX games use a python socket to create a game with both server and client side. In order to start the game, it is necessary to run the server file only once. Also known as Host and other players to play must run client file to connect to the server to start the game. The game has a system to create a room, 1 room with two players.
+There is also a Hall of fame system to rank and keep player statistics.
 
-Mypos was created to facilitate the management of merchandise trading. And the management of various information within the store to be convenient, easy to use and easy to understand. \
-By using the system, it will be supported in 3 cases:
-1) Admin: able to manage the product Various promotions and access to different parts in other roles
-2) Cashier: able to sell products And can see in the receipt section
-3) Fianace: Accessible in the management section. In the finance section To analyze income and income taxes
 
 ## Technologies Used
-- Python Django 
-- HTML 
-- CSS
-- JavaScript
-- MySQL 
+- Socket Programming in Python
+- TK Interface library
 - Visual Studio Code 
 
 ## Features
-- Login
-- Payment (Cash payment , QRcode payment)
-- Receipt creation
-- Add Edit Delete in Product , Employee , Member , Promotion 
-- Report Sale Tax 
-- Show profit bill, total sales, profit and sales graph. Graph of the top 5 selling products
+- Have 2 mode for this game 
+  1) play with host (server - client)
+  2) play with another (client - client)
+- Room systems (Can create , join , delete room)
+- Hall of fame (Name , Played , Win , Lose , Win rate)
 
 
 ## Screenshots
-This is an example image. You can see more details of this project at the file. POS-Django.pdf
+This is an example image
 
 - server UI 
 
-![3](https://user-images.githubusercontent.com/78865194/120213892-f7331800-c25d-11eb-93fb-6736c6cc8cb5.png)
+![Picture17](https://user-images.githubusercontent.com/78865194/120215167-9dcbe880-c25f-11eb-98d9-852e0ab6a415.png)
 
 - client UI 
 
-![4](https://user-images.githubusercontent.com/78865194/120213898-f8644500-c25d-11eb-871d-3dfcfd0ae12b.png)
+![Picture19](https://user-images.githubusercontent.com/78865194/120215171-9e647f00-c25f-11eb-9469-25a3562c6dd6.png)
 
 - Manage Room UI
 
-![5](https://user-images.githubusercontent.com/78865194/120213900-f8fcdb80-c25d-11eb-9195-ee44889fc43f.png)
+![Picture18](https://user-images.githubusercontent.com/78865194/120215170-9dcbe880-c25f-11eb-8d61-d1a6378d8e63.png)
 
-- Gmae play UI
+- Game play UI
 
-![1](https://user-images.githubusercontent.com/78865194/120213905-f9957200-c25d-11eb-944f-3695b6968f7e.png)
+![Picture15](https://user-images.githubusercontent.com/78865194/120215160-9b698e80-c25f-11eb-8746-e1c070e0d417.png)
 
 - Hall of fame UI 
 
-![2](https://user-images.githubusercontent.com/78865194/120213906-f9957200-c25d-11eb-89d6-156634f03b31.png)
+
+![Picture16](https://user-images.githubusercontent.com/78865194/120215166-9d335200-c25f-11eb-90c5-a1ece7756ac5.png)
+
+
 
 
 
